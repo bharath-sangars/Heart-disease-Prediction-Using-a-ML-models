@@ -1,1 +1,2 @@
 # Heart-disease-Prediction-Using-a-ML-model
+Heart disease prediction using machine learning (ML) models is a significant application in healthcare that aims to accurately identify individuals at risk of developing heart diseases. The project involves developing a predictive model that can analyze various medical data and provide insights to aid in diagnosis and treatment decision-making towards patients condition
